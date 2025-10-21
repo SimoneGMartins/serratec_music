@@ -1,7 +1,7 @@
 package org.serratec.serratec_music.controller;
 
-import org.serratec.serratec_music.Repository.UsuarioRepository;
 import org.serratec.serratec_music.domain.Usuario;
+import org.serratec.serratec_music.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

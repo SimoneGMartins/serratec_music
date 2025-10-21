@@ -1,4 +1,4 @@
-package org.serratec.serratec_music.Repository;
+package org.serratec.serratec_music.repository;
 
 import org.serratec.serratec_music.domain.Perfil;
 import org.springframework.data.jpa.repository.JpaRepository;
